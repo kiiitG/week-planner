@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536786071909",
+    "project_id": "planner-b6b4c",
+    "storage_bucket": "planner-b6b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536786071909:android:4a397493ba8c58d6df318c",
+        "android_client_info": {
+          "package_name": "ru.edu.hse.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536786071909-dtndfjlek1ae96fi4397epfplj16plte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM42DgFs7v4S920G4Solh2NbFeWFFifNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536786071909-dtndfjlek1ae96fi4397epfplj16plte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

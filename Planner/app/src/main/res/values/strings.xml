@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="menu_btn_1">Создать новое событие</string>
+    <string name="menu_btn_2">Перейти к календарю</string>
+    <string name="menu_btn_3">Выйти</string>
+    <string name="menu_item_1">Настройки</string>
+    <string name="menu_item_2">О программе</string>
+    <string name="create_title">Создание события</string>
+    <string name="create_name">Введите название:</string>
+    <string name="create_date">Введите дату и время начала:</string>
+    <string name="create_isRepetitive">Повторяющееся</string>
+    <string name="create_days">Отметьте дни:</string>
+    <string name="nextBtnText">Далее</string>
+    <string name="backBtnText">Назад</string>
+    <string name="groupCreateTitle">Создание группы активностей</string>
+    <string name="createGroupBtn">Создать</string>
+    <string name="createGroupHint">Создать новую группу</string>
+    <string name="colorGroupBtnText">Цвет</string>
+    <string name="createTodoBtnText">Создать</string>
+    <string name="calExitBtnText">выйти</string>
+    <string name="calCreateTodo">Новое todo</string>
+    <string name="calCreateGrDtnText">Новая группа</string>
+</resources>
